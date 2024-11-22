@@ -1,6 +1,6 @@
-# Advent of Code 2016
+# Advent of Code 2017
 
-[Advent of Code 2016](https://adventofcode.com/2016) in [TypeScript](https://www.typescriptlang.org/).
+[Advent of Code 2017](https://adventofcode.com/2017) in [TypeScript](https://www.typescriptlang.org/).
 
 ## Requirements
 
