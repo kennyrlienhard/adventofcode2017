@@ -15,6 +15,7 @@ import day14 from './day14';
 import day15 from './day15';
 import day16 from './day16';
 import day17 from './day17';
+import day18 from './day18';
 
 const PUZZLES = [
   day01,
@@ -34,9 +35,10 @@ const PUZZLES = [
   day15,
   day16,
   day17,
+  day18,
 ];
 
-const DAYS_TO_SOLVE = [14];
+const DAYS_TO_SOLVE = [18];
 
 function printResult(result: { day: number; part: number; start: Date; end: Date; value: number }) {
   console.log(`Day ${('0' + result.day).slice(-2)}. Part ${result.part}: ${result.value}`);
